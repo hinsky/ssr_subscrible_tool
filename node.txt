@@ -1,1 +1,7 @@
+# 节点列表
 
+# drive v2ray
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIndzZSIsDQogICJhZGQiOiAiZHJpdmUucmljaC1sZWFkZXJzLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0MGJmNzJjYi0yYTIyLTQ3M2QtODdkNi1kNGVkNDVlM2ZmMGUiLA0KICAiYWlkIjogIjY0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5LyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+
+# sg trojan
+trojan://8a046144@sg.rich-leaders.com:443#sg
