@@ -1,7 +1,17 @@
 # 节点列表
 
 # drive v2ray
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIndzZSIsDQogICJhZGQiOiAiZHJpdmUucmljaC1sZWFkZXJzLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0MGJmNzJjYi0yYTIyLTQ3M2QtODdkNi1kNGVkNDVlM2ZmMGUiLA0KICAiYWlkIjogIjY0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvcmF5LyIsDQogICJ0bHMiOiAidGxzIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIndzZSIsDQogICJhZGQiOiAiZHJpdmUucmljaC1sZWFkZXJzLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0MGJmNzJjYi0yYTIyLTQ3M2QtODdkNi1kNGVkNDVlM2ZmMGUiLA0KICAiYWlkIjogIjY0IiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvZjM1NTY2MzEvIiwNCiAgInRscyI6ICJ0bHMiDQp9
+
+# drive trojan
+trojan://8a046144@drive.rich-leaders.com:81#drivetr
 
 # sg trojan
-trojan://8a046144@sg.rich-leaders.com:443#sg
+trojan://8a046144@sg.rich-leaders.com:443#sgtr
+
+# cdn trojan
+trojan://8a046144@cdn.rich-leaders.com:443#cdntr
+
+
+
+
