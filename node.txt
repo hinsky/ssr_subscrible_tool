@@ -7,10 +7,10 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIndzZSIsDQogICJhZGQiOiAiZHJpdmUucmljaC1s
 trojan://8a046144@drive.rich-leaders.com:81#drivetr
 
 # sg trojan
-trojan://8a046144@sg.rich-leaders.com:81#sgtr
+trojan://8a046144@sg.rich-leaders.com:443#sgtr
 
 # cdn trojan
-trojan://8a046144@cdn.rich-leaders.com:81#cdntr
+trojan://8a046144@cdn.rich-leaders.com:443#cdntr
 
 
 
