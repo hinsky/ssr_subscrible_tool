@@ -6,6 +6,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIndzZSIsDQogICJhZGQiOiAiZHJpdmUucmljaC1s
 # drive trojan
 trojan://8a046144@drive.rich-leaders.com:81#drivetr
 
+# hk trojan
+trojan://8a046144@hk.rich-leaders.com:443#hktr
+
 # sg trojan
 trojan://8a046144@sg.rich-leaders.com:443#sgtr
 
